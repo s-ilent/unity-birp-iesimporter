@@ -1,0 +1,20 @@
+{
+  "name": "com.silent.iesimporter",
+  "version": "1.0.0",
+  "displayName": "IES importer for BIRP",
+  "description": "Unity's IES importer, originally made for HDRP/CoreRP, ported to the built-in rendering pipeline.",
+  "unity": "2019.4",
+  "unityRelease": "11",
+  "dependencies": {
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  } 
+}
